@@ -103,14 +103,6 @@ Or delete broken cache:
 Remove-Item -Recurse -Force "$env:USERPROFILE\.cache\huggingface"
 ```
 
-## 📈 Future Add-ons
-
-- 🧠 Gemini Pro / LLaMA Integration
-- 🌍 Multilingual Support
-- 📱 Mobile App Interface
-- 📤 Resume Parsing + Vectorization
-- 🧩 Plugin to LinkedIn for quick assessments
-
 ## 🤝 Contributions
 
 PRs, ideas, and feedback are welcome! Let's make hiring smarter together.
