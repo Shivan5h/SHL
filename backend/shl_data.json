@@ -1,0 +1,13 @@
+[
+    {
+      "id": "1",
+      "name": "Cognitive Ability Test",
+      "description": "Measures verbal, numerical and logical reasoning.",
+      "url": "https://www.shl.com/product/cognitive-ability/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "30 mins",
+      "test_type": "Cognitive"
+    }
+  ]
+  
